@@ -44,4 +44,4 @@ I love exploring philosophy, exchanging different perspectives, and discussing q
 ### 📫 Connect With Me
 
 - **Email:** [jjjr0617@gmail.com](mailto:jjjr0617@gmail.com)
-- **GitHub:** [@js10839](https://github.com/js10839)
+- **LinkedIn:** [@Colin Joonghun Sung](https://www.linkedin.com/in/colin-joonghun-sung-840003271/)
