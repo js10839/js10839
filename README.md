@@ -1,10 +1,47 @@
-- 👋 Hi, I’m @js10839
-- 👀 I’m interested in creating my own service that helps people to reduce their burdens
-- 🌱 I’m currently learning Computer Science and Data Science at NYU
-- 📫 How to reach me ... jjjr0617@gmail.com
-- ⚡ Fun fact: I love talking about philosophy stuff of any kind
+# Hi there, I'm Colin 👋
 
-<!---
-js10839/js10839 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science and Data Science student at **New York University (NYU)**.
+
+I'm passionate about building practical, user-centered applications that simplify everyday life. My interests lie in **software engineering, AI automation, backend development, and data-driven solutions**.
+
+I enjoy turning ideas into real products, from designing backend systems to building complete applications.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL, Dart, JavaScript, Java, C
+- **Backend & Databases:** FastAPI, PostgreSQL, Supabase, Django
+- **Mobile Development:** Flutter
+- **Data & Tools:** Pandas, NumPy, Matplotlib, Seaborn Git, GitHub
+
+### 🚀 Featured Projects
+
+**💰 Dadali — Personal Finance App**
+
+A personal finance application designed to simplify expense tracking and financial management.
+
+- AI-powered receipt parsing and expense categorization
+- Backend development with FastAPI and PostgreSQL
+- Cross-platform mobile development with Flutter
+
+**⚽ 1Touch — Football Data Platform**
+
+A football platform built to deliver meaningful statistics and interactive experiences to fans.
+
+- Custom data pipelines for collecting and normalizing football statistics
+- Derived performance metrics and data-driven insights
+- Live match updates and real-time fan chat
+
+### 🌱 Currently Exploring
+
+- AI agents and workflow automation
+- Scalable backend architecture
+- Data engineering and analytics
+
+### 💡 Beyond Coding
+
+I love exploring philosophy, exchanging different perspectives, and discussing questions about life, technology, and human behavior.
+
+### 📫 Connect With Me
+
+- **Email:** [jjjr0617@gmail.com](mailto:jjjr0617@gmail.com)
+- **GitHub:** [@js10839](https://github.com/js10839)
